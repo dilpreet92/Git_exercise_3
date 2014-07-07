@@ -1,0 +1,6 @@
+Second File
+
+This is the Secondary File of Git Exercise
+It contains user's father info:
+Mohinder Singh
+makkar.mohinder@gmail.com
